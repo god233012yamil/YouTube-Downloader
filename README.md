@@ -33,7 +33,3 @@ https://realpython.com/python-menus-toolbars/
 
 2. PyQt Layouts: Create Professional-Looking GUI Applications
 https://realpython.com/python-pyqt-layout/
-![image](https://user-images.githubusercontent.com/5813359/191138193-1b4b26f9-a696-4e72-a474-437735dccbac.png)
-
-
-
