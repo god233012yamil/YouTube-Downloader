@@ -24,4 +24,16 @@ The code for this application has been commented on extensively for learning pur
 # Video showing the application downloading a video from YouTube.
 https://user-images.githubusercontent.com/5813359/191137169-62e35ff0-c5ca-49fb-8971-a38debfccd49.mp4
 
+# References
+1. Python and PyQt: Building a GUI Desktop Calculator
+https://realpython.com/python-pyqt-gui-calculator/
+
+2. Python and PyQt: Creating Menus, Toolbars, and Status Bars
+https://realpython.com/python-menus-toolbars/
+
+2. PyQt Layouts: Create Professional-Looking GUI Applications
+https://realpython.com/python-pyqt-layout/
+![image](https://user-images.githubusercontent.com/5813359/191138193-1b4b26f9-a696-4e72-a474-437735dccbac.png)
+
+
 
