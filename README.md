@@ -21,3 +21,7 @@ The code for this application has been commented on extensively for learning pur
 # Dialog Shown When the Download has Finished
 ![Dialog Shown When the Download has Finished](https://user-images.githubusercontent.com/5813359/191136855-e43a63e9-73a3-44c0-b1e6-35b51f8ad2f1.png)
 
+# Video showing the application downloading a video from YouTube.
+https://user-images.githubusercontent.com/5813359/191137169-62e35ff0-c5ca-49fb-8971-a38debfccd49.mp4
+
+
